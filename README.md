@@ -61,7 +61,7 @@
 
 ### ERD
 
-<img src="/assets/ERD.png" width="auto"></img>
+<img src="/assets/ERD.jpg" width="auto"></img>
 
 
 
