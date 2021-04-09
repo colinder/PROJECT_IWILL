@@ -62,7 +62,7 @@
 
 ### ERD
 
-<img src="/assets/ERD.jpg" width="auto"></img>
+<img src="/assets/ERD.PNG" width="auto"></img>
 
 
 ​		
